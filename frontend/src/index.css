@@ -1,0 +1,30 @@
+/* scrollbar */
+::-webkit-scrollbar {
+    width: 5px;
+}
+
+/* scrollbar track */
+::-webkit-scrollbar-track {
+    background: rgba(168, 170, 170, 0.633); 
+}
+ 
+/* scrollbar thumb */
+::-webkit-scrollbar-thumb {
+    background: teal; 
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: rgb(2, 92, 92);
+}
+
+.chakra-menu__menu-button.css-179rocb {
+    border: 2px solid #38B2AC;
+}
+
+.css-179rocb:active, .css-179rocb[data-active], .css-179rocb:hover, .css-179rocb[data-hover] {
+    background: transparent !important;
+}
+
+.chakra-menu__menu-button.css-179rocb svg path {
+    color: #4FD1C5;
+}
